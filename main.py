@@ -1,7 +1,6 @@
 
 print('hi')
 
-print('kjbkjbkjb')
 
 
 
